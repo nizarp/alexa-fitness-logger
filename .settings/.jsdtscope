@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="node_modules/mysql/|**/node_modules/*|node_modules/mysql/lib/|node_modules/isarray/|node_modules/readable-stream/|node_modules/core-util-is/|node_modules/core-util-is/lib/|node_modules/inherits/|node_modules/mysql/lib/protocol/constants/|node_modules/isarray/build/|**/bower_components/*|node_modules/mysql/lib/protocol/|node_modules/string_decoder/|node_modules/mysql/lib/protocol/packets/|node_modules/readable-stream/lib/|node_modules/bignumber.js/|**/*.min.js|node_modules/mysql/lib/protocol/sequences/" kind="src" path="src"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/bignumber.js"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|lib/|**/*.min.js" kind="src" path="src/node_modules/core-util-is"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/core-util-is/lib"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/inherits"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js|build/" kind="src" path="src/node_modules/isarray"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/isarray/build"/>
+	<classpathentry excluding="lib/protocol/packets/|**/bower_components/*|**/node_modules/*|lib/protocol/sequences/|lib/protocol/|lib/protocol/constants/|lib/|**/*.min.js" kind="src" path="src/node_modules/mysql"/>
+	<classpathentry excluding="**/bower_components/*|protocol/packets/|**/node_modules/*|protocol/sequences/|protocol/constants/|protocol/|**/*.min.js" kind="src" path="src/node_modules/mysql/lib"/>
+	<classpathentry excluding="**/bower_components/*|packets/|**/node_modules/*|sequences/|constants/|**/*.min.js" kind="src" path="src/node_modules/mysql/lib/protocol"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/mysql/lib/protocol/constants"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/mysql/lib/protocol/packets"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/mysql/lib/protocol/sequences"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|lib/|**/*.min.js" kind="src" path="src/node_modules/readable-stream"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/readable-stream/lib"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="src/node_modules/string_decoder"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

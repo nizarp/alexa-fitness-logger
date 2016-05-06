@@ -1,35 +1,88 @@
 {
   "intents": [
     {
-      "intent": "AddPlayerIntent",
+      "intent": "NewExcerciseIntent",
       "slots": [
         {
-          "name": "PlayerName",
-          "type": "LIST_OF_PLAYER_NAMES"
-        }
-      ]
-    },
-    {
-      "intent": "AddScoreIntent",
-      "slots": [
-        {
-          "name": "PlayerName",
-          "type": "LIST_OF_PLAYER_NAMES"
+          "name": "Exercise",
+          "type": "LIST_OF_EXERCISES"
         },
         {
-          "name": "ScoreNumber",
+          "name": "Count",
           "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Weight",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "WeightDecimal",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "WeightFraction",
+          "type": "LIST_OF_FRACTIONS"
+        },
+        {
+          "name": "WeightUnit",
+          "type": "LIST_OF_UNITS"
         }
       ]
     },
     {
-      "intent": "ResetPlayersIntent"
+      "intent": "CorrectionIntent",
+      "slots": [
+        {
+          "name": "Correction",
+          "type": "LIST_OF_CORRECTION"
+        }
+      ]
     },
     {
-      "intent": "NewGameIntent"
+      "intent": "PersonalBestIntent",
+      "slots": [
+        {
+          "name": "Exercise",
+          "type": "LIST_OF_EXERCISES"
+        }
+      ]
     },
     {
-      "intent": "TellScoresIntent"
+      "intent": "GetExerciseOnDayIntent",
+      "slots": [
+        {
+          "name": "Exercise",
+          "type": "LIST_OF_EXERCISES"
+        },
+        {
+          "name": "Day",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "GetAllExercisesIntent",
+      "slots": [
+        {
+          "name": "Workout",
+          "type": "LIST_OF_KEYWORDS"
+        }
+      ]
+    },
+    {
+      "intent": "GetAllExerciseOnDayIntent",
+      "slots": [
+        {
+          "name": "Day",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "MyHelpIntent"
+    },
+    {
+      "intent": "MyCancelIntent"
     },
     {
       "intent": "AMAZON.HelpIntent"

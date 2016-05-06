@@ -1,444 +1,421 @@
-ResetPlayersIntent clear
-ResetPlayersIntent clear a game
-ResetPlayersIntent clear game
-ResetPlayersIntent clear points
-ResetPlayersIntent clear numbers
-ResetPlayersIntent clear score
-ResetPlayersIntent clear last game
-ResetPlayersIntent clear last participants
-ResetPlayersIntent clear last players
-ResetPlayersIntent clear last points
-ResetPlayersIntent clear last numbers
-ResetPlayersIntent clear last score
-ResetPlayersIntent clear my players
-ResetPlayersIntent clear my game
-ResetPlayersIntent clear my participants
-ResetPlayersIntent clear my points
-ResetPlayersIntent clear my numbers
-ResetPlayersIntent clear my score
-ResetPlayersIntent clear old game
-ResetPlayersIntent clear old participants
-ResetPlayersIntent clear old players
-ResetPlayersIntent clear old points
-ResetPlayersIntent clear old numbers
-ResetPlayersIntent clear old score
-ResetPlayersIntent clear our game
-ResetPlayersIntent clear our participants
-ResetPlayersIntent clear our players
-ResetPlayersIntent clear our points
-ResetPlayersIntent clear our numbers
-ResetPlayersIntent clear our score
-ResetPlayersIntent clear participants
-ResetPlayersIntent clear past game
-ResetPlayersIntent clear past participants
-ResetPlayersIntent clear past players
-ResetPlayersIntent clear past points
-ResetPlayersIntent clear past numbers
-ResetPlayersIntent clear past score
-ResetPlayersIntent clear players
-ResetPlayersIntent clear that game
-ResetPlayersIntent clear that score
-ResetPlayersIntent clear the game
-ResetPlayersIntent clear the participants
-ResetPlayersIntent clear the players
-ResetPlayersIntent clear the points
-ResetPlayersIntent clear the numbers
-ResetPlayersIntent clear the score
-ResetPlayersIntent clear those participants
-ResetPlayersIntent clear those players
-ResetPlayersIntent clear those points
-ResetPlayersIntent clear those numbers
-ResetPlayersIntent delete
-ResetPlayersIntent delete a game
-ResetPlayersIntent delete game
-ResetPlayersIntent delete points
-ResetPlayersIntent delete numbers
-ResetPlayersIntent delete score
-ResetPlayersIntent delete last game
-ResetPlayersIntent delete last participants
-ResetPlayersIntent delete last players
-ResetPlayersIntent delete last points
-ResetPlayersIntent delete last numbers
-ResetPlayersIntent delete last score
-ResetPlayersIntent delete my players
-ResetPlayersIntent delete my game
-ResetPlayersIntent delete my participants
-ResetPlayersIntent delete my points
-ResetPlayersIntent delete my numbers
-ResetPlayersIntent delete my score
-ResetPlayersIntent delete old game
-ResetPlayersIntent delete old participants
-ResetPlayersIntent delete old players
-ResetPlayersIntent delete old points
-ResetPlayersIntent delete old numbers
-ResetPlayersIntent delete old score
-ResetPlayersIntent delete our game
-ResetPlayersIntent delete our participants
-ResetPlayersIntent delete our players
-ResetPlayersIntent delete our points
-ResetPlayersIntent delete our numbers
-ResetPlayersIntent delete our score
-ResetPlayersIntent delete participants
-ResetPlayersIntent delete past game
-ResetPlayersIntent delete past participants
-ResetPlayersIntent delete past players
-ResetPlayersIntent delete past points
-ResetPlayersIntent delete past numbers
-ResetPlayersIntent delete past score
-ResetPlayersIntent delete players
-ResetPlayersIntent delete that game
-ResetPlayersIntent delete that score
-ResetPlayersIntent delete the game
-ResetPlayersIntent delete the participants
-ResetPlayersIntent delete the players
-ResetPlayersIntent delete the points
-ResetPlayersIntent delete the numbers
-ResetPlayersIntent delete the score
-ResetPlayersIntent delete those participants
-ResetPlayersIntent delete those players
-ResetPlayersIntent delete those points
-ResetPlayersIntent delete those numbers
-ResetPlayersIntent erase
-ResetPlayersIntent erase a game
-ResetPlayersIntent erase game
-ResetPlayersIntent erase points
-ResetPlayersIntent erase numbers
-ResetPlayersIntent erase score
-ResetPlayersIntent erase last game
-ResetPlayersIntent erase last participants
-ResetPlayersIntent erase last players
-ResetPlayersIntent erase last points
-ResetPlayersIntent erase last numbers
-ResetPlayersIntent erase last score
-ResetPlayersIntent erase my players
-ResetPlayersIntent erase my game
-ResetPlayersIntent erase my participants
-ResetPlayersIntent erase my points
-ResetPlayersIntent erase my numbers
-ResetPlayersIntent erase my score
-ResetPlayersIntent erase old game
-ResetPlayersIntent erase old participants
-ResetPlayersIntent erase old players
-ResetPlayersIntent erase old points
-ResetPlayersIntent erase old numbers
-ResetPlayersIntent erase old score
-ResetPlayersIntent erase our game
-ResetPlayersIntent erase our participants
-ResetPlayersIntent erase our players
-ResetPlayersIntent erase our points
-ResetPlayersIntent erase our numbers
-ResetPlayersIntent erase our score
-ResetPlayersIntent erase participants
-ResetPlayersIntent erase past game
-ResetPlayersIntent erase past participants
-ResetPlayersIntent erase past players
-ResetPlayersIntent erase past points
-ResetPlayersIntent erase past numbers
-ResetPlayersIntent erase past score
-ResetPlayersIntent erase players
-ResetPlayersIntent erase that game
-ResetPlayersIntent erase that score
-ResetPlayersIntent erase the game
-ResetPlayersIntent erase the participants
-ResetPlayersIntent erase the players
-ResetPlayersIntent erase the points
-ResetPlayersIntent erase the numbers
-ResetPlayersIntent erase the score
-ResetPlayersIntent erase those participants
-ResetPlayersIntent erase those players
-ResetPlayersIntent erase those points
-ResetPlayersIntent erase those numbers
-ResetPlayersIntent forget
-ResetPlayersIntent forget a game
-ResetPlayersIntent forget game
-ResetPlayersIntent forget points
-ResetPlayersIntent forget numbers
-ResetPlayersIntent forget score
-ResetPlayersIntent forget last game
-ResetPlayersIntent forget last participants
-ResetPlayersIntent forget last players
-ResetPlayersIntent forget last points
-ResetPlayersIntent forget last numbers
-ResetPlayersIntent forget last score
-ResetPlayersIntent forget my players
-ResetPlayersIntent forget my game
-ResetPlayersIntent forget my participants
-ResetPlayersIntent forget my points
-ResetPlayersIntent forget my numbers
-ResetPlayersIntent forget my score
-ResetPlayersIntent forget old game
-ResetPlayersIntent forget old participants
-ResetPlayersIntent forget old players
-ResetPlayersIntent forget old points
-ResetPlayersIntent forget old numbers
-ResetPlayersIntent forget old score
-ResetPlayersIntent forget our game
-ResetPlayersIntent forget our participants
-ResetPlayersIntent forget our players
-ResetPlayersIntent forget our points
-ResetPlayersIntent forget our numbers
-ResetPlayersIntent forget our score
-ResetPlayersIntent forget participants
-ResetPlayersIntent forget past game
-ResetPlayersIntent forget past participants
-ResetPlayersIntent forget past players
-ResetPlayersIntent forget past points
-ResetPlayersIntent forget past numbers
-ResetPlayersIntent forget past score
-ResetPlayersIntent forget players
-ResetPlayersIntent forget that game
-ResetPlayersIntent forget that score
-ResetPlayersIntent forget the game
-ResetPlayersIntent forget the participants
-ResetPlayersIntent forget the players
-ResetPlayersIntent forget the points
-ResetPlayersIntent forget the numbers
-ResetPlayersIntent forget the score
-ResetPlayersIntent forget those participants
-ResetPlayersIntent forget those players
-ResetPlayersIntent forget those points
-ResetPlayersIntent forget those numbers
-ResetPlayersIntent remove
-ResetPlayersIntent remove a game
-ResetPlayersIntent remove game
-ResetPlayersIntent remove points
-ResetPlayersIntent remove numbers
-ResetPlayersIntent remove score
-ResetPlayersIntent remove last game
-ResetPlayersIntent remove last participants
-ResetPlayersIntent remove last players
-ResetPlayersIntent remove last points
-ResetPlayersIntent remove last numbers
-ResetPlayersIntent remove last score
-ResetPlayersIntent remove my players
-ResetPlayersIntent remove my game
-ResetPlayersIntent remove my participants
-ResetPlayersIntent remove my points
-ResetPlayersIntent remove my numbers
-ResetPlayersIntent remove my score
-ResetPlayersIntent remove old game
-ResetPlayersIntent remove old participants
-ResetPlayersIntent remove old players
-ResetPlayersIntent remove old points
-ResetPlayersIntent remove old numbers
-ResetPlayersIntent remove old score
-ResetPlayersIntent remove our game
-ResetPlayersIntent remove our participants
-ResetPlayersIntent remove our players
-ResetPlayersIntent remove our points
-ResetPlayersIntent remove our numbers
-ResetPlayersIntent remove our score
-ResetPlayersIntent remove participants
-ResetPlayersIntent remove past game
-ResetPlayersIntent remove past participants
-ResetPlayersIntent remove past players
-ResetPlayersIntent remove past points
-ResetPlayersIntent remove past numbers
-ResetPlayersIntent remove past score
-ResetPlayersIntent remove players
-ResetPlayersIntent remove that game
-ResetPlayersIntent remove that score
-ResetPlayersIntent remove the game
-ResetPlayersIntent remove the participants
-ResetPlayersIntent remove the players
-ResetPlayersIntent remove the points
-ResetPlayersIntent remove the numbers
-ResetPlayersIntent remove the score
-ResetPlayersIntent remove those participants
-ResetPlayersIntent remove those players
-ResetPlayersIntent remove those points
-ResetPlayersIntent remove those numbers
-ResetPlayersIntent reset
-ResetPlayersIntent reset a game
-ResetPlayersIntent reset game
-ResetPlayersIntent reset points
-ResetPlayersIntent reset numbers
-ResetPlayersIntent reset score
-ResetPlayersIntent reset last game
-ResetPlayersIntent reset last participants
-ResetPlayersIntent reset last players
-ResetPlayersIntent reset last points
-ResetPlayersIntent reset last numbers
-ResetPlayersIntent reset last score
-ResetPlayersIntent reset my players
-ResetPlayersIntent reset my game
-ResetPlayersIntent reset my participants
-ResetPlayersIntent reset my points
-ResetPlayersIntent reset my numbers
-ResetPlayersIntent reset my score
-ResetPlayersIntent reset old game
-ResetPlayersIntent reset old participants
-ResetPlayersIntent reset old players
-ResetPlayersIntent reset old points
-ResetPlayersIntent reset old numbers
-ResetPlayersIntent reset old score
-ResetPlayersIntent reset our game
-ResetPlayersIntent reset our participants
-ResetPlayersIntent reset our players
-ResetPlayersIntent reset our points
-ResetPlayersIntent reset our numbers
-ResetPlayersIntent reset our score
-ResetPlayersIntent reset participants
-ResetPlayersIntent reset past game
-ResetPlayersIntent reset past participants
-ResetPlayersIntent reset past players
-ResetPlayersIntent reset past points
-ResetPlayersIntent reset past numbers
-ResetPlayersIntent reset past score
-ResetPlayersIntent reset players
-ResetPlayersIntent reset that game
-ResetPlayersIntent reset that score
-ResetPlayersIntent reset the game
-ResetPlayersIntent reset the participants
-ResetPlayersIntent reset the players
-ResetPlayersIntent reset the points
-ResetPlayersIntent reset the numbers
-ResetPlayersIntent reset the score
-ResetPlayersIntent reset those participants
-ResetPlayersIntent reset those players
-ResetPlayersIntent reset those points
-ResetPlayersIntent reset those numbers
-ResetPlayersIntent wipe
-ResetPlayersIntent wipe a game
-ResetPlayersIntent wipe game
-ResetPlayersIntent wipe points
-ResetPlayersIntent wipe numbers
-ResetPlayersIntent wipe score
-ResetPlayersIntent wipe last game
-ResetPlayersIntent wipe last participants
-ResetPlayersIntent wipe last players
-ResetPlayersIntent wipe last points
-ResetPlayersIntent wipe last numbers
-ResetPlayersIntent wipe last score
-ResetPlayersIntent wipe my players
-ResetPlayersIntent wipe my game
-ResetPlayersIntent wipe my participants
-ResetPlayersIntent wipe my points
-ResetPlayersIntent wipe my numbers
-ResetPlayersIntent wipe my score
-ResetPlayersIntent wipe old game
-ResetPlayersIntent wipe old participants
-ResetPlayersIntent wipe old players
-ResetPlayersIntent wipe old points
-ResetPlayersIntent wipe old numbers
-ResetPlayersIntent wipe old score
-ResetPlayersIntent wipe our game
-ResetPlayersIntent wipe our participants
-ResetPlayersIntent wipe our players
-ResetPlayersIntent wipe our points
-ResetPlayersIntent wipe our numbers
-ResetPlayersIntent wipe our score
-ResetPlayersIntent wipe participants
-ResetPlayersIntent wipe past game
-ResetPlayersIntent wipe past participants
-ResetPlayersIntent wipe past players
-ResetPlayersIntent wipe past points
-ResetPlayersIntent wipe past numbers
-ResetPlayersIntent wipe past score
-ResetPlayersIntent wipe players
-ResetPlayersIntent wipe that game
-ResetPlayersIntent wipe that score
-ResetPlayersIntent wipe the game
-ResetPlayersIntent wipe the participants
-ResetPlayersIntent wipe the players
-ResetPlayersIntent wipe the points
-ResetPlayersIntent wipe the numbers
-ResetPlayersIntent wipe the score
-ResetPlayersIntent wipe those participants
-ResetPlayersIntent wipe those players
-ResetPlayersIntent wipe those points
-ResetPlayersIntent wipe those numbers
+NewExcerciseIntent {Count} {Exercise}
+NewExcerciseIntent {Count} {Exercise} with {Weight} {WeightUnit}
+NewExcerciseIntent {Count} {Exercise} with {Weight} point {WeightDecimal} {WeightUnit}
+NewExcerciseIntent {Count} {Exercise} with {Weight} and {WeightFraction} {WeightUnit}
+NewExcerciseIntent store {Count} {Exercise}
+NewExcerciseIntent store {Count} {Exercise} with {Weight} {WeightUnit}
+NewExcerciseIntent store {Count} {Exercise} with {Weight} point {WeightDecimal} {WeightUnit}
+NewExcerciseIntent store {Count} {Exercise} with {Weight} and {WeightFraction} {WeightUnit}
+NewExcerciseIntent add {Count} {Exercise}
+NewExcerciseIntent add {Count} {Exercise} with {Weight} {WeightUnit}
+NewExcerciseIntent add {Count} {Exercise} with {Weight} point {WeightDecimal} {WeightUnit}
+NewExcerciseIntent add {Count} {Exercise} with {Weight} and {WeightFraction} {WeightUnit}
+NewExcerciseIntent {Count} {Exercise} with {Weight}
+NewExcerciseIntent {Count} {Exercise} with {Weight} point {WeightDecimal}
+NewExcerciseIntent {Count} {Exercise} with {Weight} and {WeightFraction}
+NewExcerciseIntent store {Count} {Exercise} with {Weight}
+NewExcerciseIntent store {Count} {Exercise} with {Weight} point {WeightDecimal}
+NewExcerciseIntent store {Count} {Exercise} with {Weight} and {WeightFraction}
+NewExcerciseIntent add {Count} {Exercise} with {Weight}
+NewExcerciseIntent add {Count} {Exercise} with {Weight} point {WeightDecimal}
+NewExcerciseIntent add {Count} {Exercise} with {Weight} and {WeightFraction}
 
-NewGameIntent begin a game
-NewGameIntent begin a new game
-NewGameIntent begin game
-NewGameIntent begin new game
-NewGameIntent create a game
-NewGameIntent create a new game
-NewGameIntent create game
-NewGameIntent create new game
-NewGameIntent do a game
-NewGameIntent do a new game
-NewGameIntent do game
-NewGameIntent do new game
-NewGameIntent make a game
-NewGameIntent make a new game
-NewGameIntent make game
-NewGameIntent make new game
-NewGameIntent new game
-NewGameIntent open a game
-NewGameIntent open a new game
-NewGameIntent open game
-NewGameIntent open new game
-NewGameIntent restart
-NewGameIntent restart game
-NewGameIntent set up a game
-NewGameIntent set up a new game
-NewGameIntent set up game
-NewGameIntent set up new game
-NewGameIntent begin score
-NewGameIntent create score
-NewGameIntent do score
-NewGameIntent make score
-NewGameIntent open score
-NewGameIntent set up score
-NewGameIntent start a game
+CorrectionIntent {Correction}
+CorrectionIntent {Correction} please
+CorrectionIntent please {Correction}
 
-TellScoresIntent first
-TellScoresIntent first place
-TellScoresIntent give me the numbers
-TellScoresIntent give me the scoreboard
-TellScoresIntent give us who is in the lead
-TellScoresIntent how do our scores look
-TellScoresIntent last
-TellScoresIntent last place
-TellScoresIntent leaderboard
-TellScoresIntent list current points
-TellScoresIntent loser
-TellScoresIntent numbers
-TellScoresIntent points
-TellScoresIntent rankings
-TellScoresIntent read the standing
-TellScoresIntent recite the points
-TellScoresIntent say the numbers
-TellScoresIntent share our current numbers
-TellScoresIntent standing
-TellScoresIntent state our standing
-TellScoresIntent state the winner
-TellScoresIntent tell me current score
-TellScoresIntent tell me the current score
-TellScoresIntent tell me the score
-TellScoresIntent tell us current score
-TellScoresIntent tell us the current score
-TellScoresIntent tell us the score
-TellScoresIntent tell us who's losing
-TellScoresIntent tell us who's winning
-TellScoresIntent the current score
-TellScoresIntent the ranking
-TellScoresIntent the score
-TellScoresIntent view points
-TellScoresIntent what is the score
-TellScoresIntent what points does everyone have
-TellScoresIntent what scores do everyone have
-TellScoresIntent what's the score
-TellScoresIntent which one of us is in first place
-TellScoresIntent which one of us is winning
-TellScoresIntent who is leading
-TellScoresIntent who's got the most points
-TellScoresIntent who's in the lead
-TellScoresIntent winner
+PersonalBestIntent what is my personal best for {Exercise}
+PersonalBestIntent tell me my personal best for {Exercise}
+PersonalBestIntent give me my personal best for {Exercise}
+PersonalBestIntent tell me my best for {Exercise}
+PersonalBestIntent give me my best for {Exercise}
+PersonalBestIntent tell my personal best for {Exercise}
+PersonalBestIntent give my personal best for {Exercise}
+PersonalBestIntent tell my best for {Exercise}
+PersonalBestIntent give my best for {Exercise}
+PersonalBestIntent get me my best for {Exercise}
+PersonalBestIntent get my best for {Exercise}
+PersonalBestIntent find me my best for {Exercise}
+PersonalBestIntent find my best for {Exercise}
+PersonalBestIntent my personal best for {Exercise}
+PersonalBestIntent what's my best for {Exercise}
+PersonalBestIntent get me my best for {Exercise}
+PersonalBestIntent my best for {Exercise}
+PersonalBestIntent my best {Exercise}
 
-AddPlayerIntent add player {PlayerName}
-AddPlayerIntent add {PlayerName}
-AddPlayerIntent add {PlayerName} to the game
-AddPlayerIntent add player {PlayerName} to the game
-AddPlayerIntent add {PlayerName} to the game
-AddPlayerIntent {PlayerName}
+GetExerciseOnDayIntent how many {Exercise} on {Day}
+GetExerciseOnDayIntent what's my count of {Exercise} on {Day}
+GetExerciseOnDayIntent what's my number of {Exercise} on {Day}
+GetExerciseOnDayIntent what's the number of {Exercise} on {Day}
+GetExerciseOnDayIntent what's the count of {Exercise} on {Day}
+GetExerciseOnDayIntent what is my count of {Exercise} on {Day}
+GetExerciseOnDayIntent what is my number of {Exercise} on {Day}
+GetExerciseOnDayIntent what is the number of {Exercise} on {Day}
+GetExerciseOnDayIntent what is the count of {Exercise} on {Day}
+GetExerciseOnDayIntent how many {Exercise} {Day}
+GetExerciseOnDayIntent what's my count of {Exercise} {Day}
+GetExerciseOnDayIntent what's my number of {Exercise} {Day}
+GetExerciseOnDayIntent what's the number of {Exercise} {Day}
+GetExerciseOnDayIntent what's the count of {Exercise} {Day}
+GetExerciseOnDayIntent what is my count of {Exercise} {Day}
+GetExerciseOnDayIntent what is my number of {Exercise} {Day}
+GetExerciseOnDayIntent what is the number of {Exercise} {Day}
+GetExerciseOnDayIntent what is the count of {Exercise} {Day}
+GetExerciseOnDayIntent how many {Exercise} for {Day}
+GetExerciseOnDayIntent what's my count of {Exercise} for {Day}
+GetExerciseOnDayIntent what's my number of {Exercise} for {Day}
+GetExerciseOnDayIntent what's the number of {Exercise} for {Day}
+GetExerciseOnDayIntent what's the count of {Exercise} for {Day}
+GetExerciseOnDayIntent what is my count of {Exercise} for {Day}
+GetExerciseOnDayIntent what is my number of {Exercise} for {Day}
+GetExerciseOnDayIntent what is the number of {Exercise} for {Day}
+GetExerciseOnDayIntent what is the count of {Exercise} for {Day}
+GetExerciseOnDayIntent get {Exercise} on {Day}
+GetExerciseOnDayIntent get my {Exercise} on {Day}
+GetExerciseOnDayIntent get me {Exercise} on {Day}
+GetExerciseOnDayIntent get me my {Exercise} on {Day}
+GetExerciseOnDayIntent get {Exercise} count on {Day}
+GetExerciseOnDayIntent get my {Exercise} count on {Day}
+GetExerciseOnDayIntent get me {Exercise} count on {Day}
+GetExerciseOnDayIntent get me my {Exercise} count on {Day}
+GetExerciseOnDayIntent get number of {Exercise} on {Day}
+GetExerciseOnDayIntent get my number of {Exercise} on {Day}
+GetExerciseOnDayIntent get me number of {Exercise} on {Day}
+GetExerciseOnDayIntent get me my number of {Exercise} on {Day}
+GetExerciseOnDayIntent get count of {Exercise} on {Day}
+GetExerciseOnDayIntent get my count of {Exercise} on {Day}
+GetExerciseOnDayIntent get me count of {Exercise} on {Day}
+GetExerciseOnDayIntent get me my count of {Exercise} on {Day}
+GetExerciseOnDayIntent get {Exercise} {Day}
+GetExerciseOnDayIntent get my {Exercise} {Day}
+GetExerciseOnDayIntent get me {Exercise} {Day}
+GetExerciseOnDayIntent get me my {Exercise} {Day}
+GetExerciseOnDayIntent get {Exercise} count {Day}
+GetExerciseOnDayIntent get my {Exercise} count {Day}
+GetExerciseOnDayIntent get me {Exercise} count {Day}
+GetExerciseOnDayIntent get me my {Exercise} count {Day}
+GetExerciseOnDayIntent get number of {Exercise} {Day}
+GetExerciseOnDayIntent get my number of {Exercise} {Day}
+GetExerciseOnDayIntent get me number of {Exercise} {Day}
+GetExerciseOnDayIntent get me my number of {Exercise} {Day}
+GetExerciseOnDayIntent get count of {Exercise} {Day}
+GetExerciseOnDayIntent get my count of {Exercise} {Day}
+GetExerciseOnDayIntent get me count of {Exercise} {Day}
+GetExerciseOnDayIntent get me my count of {Exercise} {Day}
+GetExerciseOnDayIntent get {Exercise} for {Day}
+GetExerciseOnDayIntent get my {Exercise} for {Day}
+GetExerciseOnDayIntent get me {Exercise} for {Day}
+GetExerciseOnDayIntent get me my {Exercise} for {Day}
+GetExerciseOnDayIntent get {Exercise} count for {Day}
+GetExerciseOnDayIntent get my {Exercise} count for {Day}
+GetExerciseOnDayIntent get me {Exercise} count for {Day}
+GetExerciseOnDayIntent get me my {Exercise} count for {Day}
+GetExerciseOnDayIntent get number of {Exercise} for {Day}
+GetExerciseOnDayIntent get my number of {Exercise} for {Day}
+GetExerciseOnDayIntent get me number of {Exercise} for {Day}
+GetExerciseOnDayIntent get me my number of {Exercise} for {Day}
+GetExerciseOnDayIntent get count of {Exercise} for {Day}
+GetExerciseOnDayIntent get my count of {Exercise} for {Day}
+GetExerciseOnDayIntent get me count of {Exercise} for {Day}
+GetExerciseOnDayIntent get me my count of {Exercise} for {Day}
+GetExerciseOnDayIntent find {Exercise} on {Day}
+GetExerciseOnDayIntent find my {Exercise} on {Day}
+GetExerciseOnDayIntent find me {Exercise} on {Day}
+GetExerciseOnDayIntent find me my {Exercise} on {Day}
+GetExerciseOnDayIntent find {Exercise} count on {Day}
+GetExerciseOnDayIntent find my {Exercise} count on {Day}
+GetExerciseOnDayIntent find me {Exercise} count on {Day}
+GetExerciseOnDayIntent find me my {Exercise} count on {Day}
+GetExerciseOnDayIntent find number of {Exercise} on {Day}
+GetExerciseOnDayIntent find my number of {Exercise} on {Day}
+GetExerciseOnDayIntent find me number of {Exercise} on {Day}
+GetExerciseOnDayIntent find me my number of {Exercise} on {Day}
+GetExerciseOnDayIntent find count of {Exercise} on {Day}
+GetExerciseOnDayIntent find my count of {Exercise} on {Day}
+GetExerciseOnDayIntent find me count of {Exercise} on {Day}
+GetExerciseOnDayIntent find me my count of {Exercise} on {Day}
+GetExerciseOnDayIntent find {Exercise} {Day}
+GetExerciseOnDayIntent find my {Exercise} {Day}
+GetExerciseOnDayIntent find me {Exercise} {Day}
+GetExerciseOnDayIntent find me my {Exercise} {Day}
+GetExerciseOnDayIntent find {Exercise} count {Day}
+GetExerciseOnDayIntent find my {Exercise} count {Day}
+GetExerciseOnDayIntent find me {Exercise} count {Day}
+GetExerciseOnDayIntent find me my {Exercise} count {Day}
+GetExerciseOnDayIntent find number of {Exercise} {Day}
+GetExerciseOnDayIntent find my number of {Exercise} {Day}
+GetExerciseOnDayIntent find me number of {Exercise} {Day}
+GetExerciseOnDayIntent find me my number of {Exercise} {Day}
+GetExerciseOnDayIntent find count of {Exercise} {Day}
+GetExerciseOnDayIntent find my count of {Exercise} {Day}
+GetExerciseOnDayIntent find me count of {Exercise} {Day}
+GetExerciseOnDayIntent find me my count of {Exercise} {Day}
+GetExerciseOnDayIntent find {Exercise} for {Day}
+GetExerciseOnDayIntent find my {Exercise} for {Day}
+GetExerciseOnDayIntent find me {Exercise} for {Day}
+GetExerciseOnDayIntent find me my {Exercise} for {Day}
+GetExerciseOnDayIntent find {Exercise} count for {Day}
+GetExerciseOnDayIntent find my {Exercise} count for {Day}
+GetExerciseOnDayIntent find me {Exercise} count for {Day}
+GetExerciseOnDayIntent find me my {Exercise} count for {Day}
+GetExerciseOnDayIntent find number of {Exercise} for {Day}
+GetExerciseOnDayIntent find my number of {Exercise} for {Day}
+GetExerciseOnDayIntent find me number of {Exercise} for {Day}
+GetExerciseOnDayIntent find me my number of {Exercise} for {Day}
+GetExerciseOnDayIntent find count of {Exercise} for {Day}
+GetExerciseOnDayIntent find my count of {Exercise} for {Day}
+GetExerciseOnDayIntent find me count of {Exercise} for {Day}
+GetExerciseOnDayIntent find me my count of {Exercise} for {Day}
+GetExerciseOnDayIntent give {Exercise} on {Day}
+GetExerciseOnDayIntent give my {Exercise} on {Day}
+GetExerciseOnDayIntent give me {Exercise} on {Day}
+GetExerciseOnDayIntent give me my {Exercise} on {Day}
+GetExerciseOnDayIntent give {Exercise} count on {Day}
+GetExerciseOnDayIntent give my {Exercise} count on {Day}
+GetExerciseOnDayIntent give me {Exercise} count on {Day}
+GetExerciseOnDayIntent give me my {Exercise} count on {Day}
+GetExerciseOnDayIntent give number of {Exercise} on {Day}
+GetExerciseOnDayIntent give my number of {Exercise} on {Day}
+GetExerciseOnDayIntent give me number of {Exercise} on {Day}
+GetExerciseOnDayIntent give me my number of {Exercise} on {Day}
+GetExerciseOnDayIntent give count of {Exercise} on {Day}
+GetExerciseOnDayIntent give my count of {Exercise} on {Day}
+GetExerciseOnDayIntent give me count of {Exercise} on {Day}
+GetExerciseOnDayIntent give me my count of {Exercise} on {Day}
+GetExerciseOnDayIntent give {Exercise} {Day}
+GetExerciseOnDayIntent give my {Exercise} {Day}
+GetExerciseOnDayIntent give me {Exercise} {Day}
+GetExerciseOnDayIntent give me my {Exercise} {Day}
+GetExerciseOnDayIntent give {Exercise} count {Day}
+GetExerciseOnDayIntent give my {Exercise} count {Day}
+GetExerciseOnDayIntent give me {Exercise} count {Day}
+GetExerciseOnDayIntent give me my {Exercise} count {Day}
+GetExerciseOnDayIntent give number of {Exercise} {Day}
+GetExerciseOnDayIntent give my number of {Exercise} {Day}
+GetExerciseOnDayIntent give me number of {Exercise} {Day}
+GetExerciseOnDayIntent give me my number of {Exercise} {Day}
+GetExerciseOnDayIntent give count of {Exercise} {Day}
+GetExerciseOnDayIntent give my count of {Exercise} {Day}
+GetExerciseOnDayIntent give me count of {Exercise} {Day}
+GetExerciseOnDayIntent give me my count of {Exercise} {Day}
+GetExerciseOnDayIntent give {Exercise} for {Day}
+GetExerciseOnDayIntent give my {Exercise} for {Day}
+GetExerciseOnDayIntent give me {Exercise} for {Day}
+GetExerciseOnDayIntent give me my {Exercise} for {Day}
+GetExerciseOnDayIntent give {Exercise} count for {Day}
+GetExerciseOnDayIntent give my {Exercise} count for {Day}
+GetExerciseOnDayIntent give me {Exercise} count for {Day}
+GetExerciseOnDayIntent give me my {Exercise} count for {Day}
+GetExerciseOnDayIntent give number of {Exercise} for {Day}
+GetExerciseOnDayIntent give my number of {Exercise} for {Day}
+GetExerciseOnDayIntent give me number of {Exercise} for {Day}
+GetExerciseOnDayIntent give me my number of {Exercise} for {Day}
+GetExerciseOnDayIntent give count of {Exercise} for {Day}
+GetExerciseOnDayIntent give my count of {Exercise} for {Day}
+GetExerciseOnDayIntent give me count of {Exercise} for {Day}
+GetExerciseOnDayIntent give me my count of {Exercise} for {Day}
+GetExerciseOnDayIntent tell {Exercise} on {Day}
+GetExerciseOnDayIntent tell my {Exercise} on {Day}
+GetExerciseOnDayIntent tell me {Exercise} on {Day}
+GetExerciseOnDayIntent tell me my {Exercise} on {Day}
+GetExerciseOnDayIntent tell {Exercise} count on {Day}
+GetExerciseOnDayIntent tell my {Exercise} count on {Day}
+GetExerciseOnDayIntent tell me {Exercise} count on {Day}
+GetExerciseOnDayIntent tell me my {Exercise} count on {Day}
+GetExerciseOnDayIntent tell number of {Exercise} on {Day}
+GetExerciseOnDayIntent tell my number of {Exercise} on {Day}
+GetExerciseOnDayIntent tell me number of {Exercise} on {Day}
+GetExerciseOnDayIntent tell me my number of {Exercise} on {Day}
+GetExerciseOnDayIntent tell count of {Exercise} on {Day}
+GetExerciseOnDayIntent tell my count of {Exercise} on {Day}
+GetExerciseOnDayIntent tell me count of {Exercise} on {Day}
+GetExerciseOnDayIntent tell me my count of {Exercise} on {Day}
+GetExerciseOnDayIntent tell {Exercise} {Day}
+GetExerciseOnDayIntent tell my {Exercise} {Day}
+GetExerciseOnDayIntent tell me {Exercise} {Day}
+GetExerciseOnDayIntent tell me my {Exercise} {Day}
+GetExerciseOnDayIntent tell {Exercise} count {Day}
+GetExerciseOnDayIntent tell my {Exercise} count {Day}
+GetExerciseOnDayIntent tell me {Exercise} count {Day}
+GetExerciseOnDayIntent tell me my {Exercise} count {Day}
+GetExerciseOnDayIntent tell number of {Exercise} {Day}
+GetExerciseOnDayIntent tell my number of {Exercise} {Day}
+GetExerciseOnDayIntent tell me number of {Exercise} {Day}
+GetExerciseOnDayIntent tell me my number of {Exercise} {Day}
+GetExerciseOnDayIntent tell count of {Exercise} {Day}
+GetExerciseOnDayIntent tell my count of {Exercise} {Day}
+GetExerciseOnDayIntent tell me count of {Exercise} {Day}
+GetExerciseOnDayIntent tell me my count of {Exercise} {Day}
+GetExerciseOnDayIntent tell {Exercise} for {Day}
+GetExerciseOnDayIntent tell my {Exercise} for {Day}
+GetExerciseOnDayIntent tell me {Exercise} for {Day}
+GetExerciseOnDayIntent tell me my {Exercise} for {Day}
+GetExerciseOnDayIntent tell {Exercise} count for {Day}
+GetExerciseOnDayIntent tell my {Exercise} count for {Day}
+GetExerciseOnDayIntent tell me {Exercise} count for {Day}
+GetExerciseOnDayIntent tell me my {Exercise} count for {Day}
+GetExerciseOnDayIntent tell number of {Exercise} for {Day}
+GetExerciseOnDayIntent tell my number of {Exercise} for {Day}
+GetExerciseOnDayIntent tell me number of {Exercise} for {Day}
+GetExerciseOnDayIntent tell me my number of {Exercise} for {Day}
+GetExerciseOnDayIntent tell count of {Exercise} for {Day}
+GetExerciseOnDayIntent tell my count of {Exercise} for {Day}
+GetExerciseOnDayIntent tell me count of {Exercise} for {Day}
+GetExerciseOnDayIntent tell me my count of {Exercise} for {Day}
 
-AddScoreIntent give {PlayerName} {ScoreNumber}
-AddScoreIntent give {PlayerName} {ScoreNumber} points
-AddScoreIntent {ScoreNumber} more for {PlayerName}
-AddScoreIntent {ScoreNumber} for {PlayerName}
-AddScoreIntent give {PlayerName} {ScoreNumber} more points
-AddScoreIntent {ScoreNumber} more points for {PlayerName}
-AddScoreIntent {ScoreNumber} points for {PlayerName}
+GetAllExercisesIntent all {Workout}
+GetAllExercisesIntent {Workout} list
+GetAllExercisesIntent supported {Workout}
+GetAllExercisesIntent what are support {Workout}
+GetAllExercisesIntent what {Workout} are supported
+GetAllExercisesIntent valid {Workout}
+GetAllExercisesIntent get me {Workout}
+GetAllExercisesIntent get all {Workout}
+GetAllExercisesIntent get me a list of all {Workout}
+GetAllExercisesIntent get me a all {Workout}
+GetAllExercisesIntent get me a list of all {Workout}
+GetAllExercisesIntent get me {Workout} list
+GetAllExercisesIntent get me supported {Workout}
+GetAllExercisesIntent give me {Workout}
+GetAllExercisesIntent give all {Workout}
+GetAllExercisesIntent give me a list of all {Workout}
+GetAllExercisesIntent give me a all {Workout}
+GetAllExercisesIntent give me a list of all {Workout}
+GetAllExercisesIntent give me {Workout} list
+GetAllExercisesIntent give me supported {Workout}
+GetAllExercisesIntent tell me {Workout}
+GetAllExercisesIntent tell all {Workout}
+GetAllExercisesIntent tell me a list of all {Workout}
+GetAllExercisesIntent tell me a all {Workout}
+GetAllExercisesIntent tell me a list of all {Workout}
+GetAllExercisesIntent tell me {Workout} list
+GetAllExercisesIntent tell me supported {Workout}
+
+GetAllExerciseOnDayIntent my workouts {Day}
+GetAllExerciseOnDayIntent my workouts for {Day}
+GetAllExerciseOnDayIntent my workouts on {Day}
+GetAllExerciseOnDayIntent my {Day} workouts
+GetAllExerciseOnDayIntent all my workouts {Day}
+GetAllExerciseOnDayIntent all workouts {Day}
+GetAllExerciseOnDayIntent all my workouts for {Day}
+GetAllExerciseOnDayIntent all workouts for {Day}
+GetAllExerciseOnDayIntent all my workouts on {Day}
+GetAllExerciseOnDayIntent all workouts on {Day}
+GetAllExerciseOnDayIntent {Day} workouts
+GetAllExerciseOnDayIntent workouts {Day}
+GetAllExerciseOnDayIntent get my workouts for {Day}
+GetAllExerciseOnDayIntent get me my workouts for {Day}
+GetAllExerciseOnDayIntent get all my workouts for {Day}
+GetAllExerciseOnDayIntent get all workouts for {Day}
+GetAllExerciseOnDayIntent get my workouts on {Day}
+GetAllExerciseOnDayIntent get me my workouts on {Day}
+GetAllExerciseOnDayIntent get all my workouts on {Day}
+GetAllExerciseOnDayIntent get all workouts on {Day}
+GetAllExerciseOnDayIntent get my {Day} workouts
+GetAllExerciseOnDayIntent get {Day} workouts
+GetAllExerciseOnDayIntent get all workouts {Day}
+GetAllExerciseOnDayIntent give my workouts for {Day}
+GetAllExerciseOnDayIntent give me my workouts for {Day}
+GetAllExerciseOnDayIntent give all my workouts for {Day}
+GetAllExerciseOnDayIntent give all workouts for {Day}
+GetAllExerciseOnDayIntent give my workouts on {Day}
+GetAllExerciseOnDayIntent give me my workouts on {Day}
+GetAllExerciseOnDayIntent give all my workouts on {Day}
+GetAllExerciseOnDayIntent give all workouts on {Day}
+GetAllExerciseOnDayIntent give my {Day} workouts
+GetAllExerciseOnDayIntent give {Day} workouts
+GetAllExerciseOnDayIntent give all workouts {Day}
+GetAllExerciseOnDayIntent tell my workouts for {Day}
+GetAllExerciseOnDayIntent tell me my workouts for {Day}
+GetAllExerciseOnDayIntent tell all my workouts for {Day}
+GetAllExerciseOnDayIntent tell all workouts for {Day}
+GetAllExerciseOnDayIntent tell my workouts on {Day}
+GetAllExerciseOnDayIntent tell me my workouts on {Day}
+GetAllExerciseOnDayIntent tell all my workouts on {Day}
+GetAllExerciseOnDayIntent tell all workouts on {Day}
+GetAllExerciseOnDayIntent tell my {Day} workouts
+GetAllExerciseOnDayIntent tell {Day} workouts
+GetAllExerciseOnDayIntent tell all workouts {Day}
+GetAllExerciseOnDayIntent find my workouts for {Day}
+GetAllExerciseOnDayIntent find me my workouts for {Day}
+GetAllExerciseOnDayIntent find all my workouts for {Day}
+GetAllExerciseOnDayIntent find all workouts for {Day}
+GetAllExerciseOnDayIntent find my workouts on {Day}
+GetAllExerciseOnDayIntent find me my workouts on {Day}
+GetAllExerciseOnDayIntent find all my workouts on {Day}
+GetAllExerciseOnDayIntent find all workouts on {Day}
+GetAllExerciseOnDayIntent find my {Day} workouts
+GetAllExerciseOnDayIntent find {Day} workouts
+GetAllExerciseOnDayIntent find all workouts {Day}
+GetAllExerciseOnDayIntent my exercises {Day}
+GetAllExerciseOnDayIntent my exercises for {Day}
+GetAllExerciseOnDayIntent my exercises on {Day}
+GetAllExerciseOnDayIntent my {Day} exercises
+GetAllExerciseOnDayIntent all my exercises {Day}
+GetAllExerciseOnDayIntent all exercises {Day}
+GetAllExerciseOnDayIntent all my exercises for {Day}
+GetAllExerciseOnDayIntent all exercises for {Day}
+GetAllExerciseOnDayIntent all my exercises on {Day}
+GetAllExerciseOnDayIntent all exercises on {Day}
+GetAllExerciseOnDayIntent {Day} exercises
+GetAllExerciseOnDayIntent exercises {Day}
+GetAllExerciseOnDayIntent get my exercises for {Day}
+GetAllExerciseOnDayIntent get me my exercises for {Day}
+GetAllExerciseOnDayIntent get all my exercises for {Day}
+GetAllExerciseOnDayIntent get all exercises for {Day}
+GetAllExerciseOnDayIntent get my exercises on {Day}
+GetAllExerciseOnDayIntent get me my exercises on {Day}
+GetAllExerciseOnDayIntent get all my exercises on {Day}
+GetAllExerciseOnDayIntent get all exercises on {Day}
+GetAllExerciseOnDayIntent get my {Day} exercises
+GetAllExerciseOnDayIntent get {Day} exercises
+GetAllExerciseOnDayIntent get all exercises {Day}
+GetAllExerciseOnDayIntent give my exercises for {Day}
+GetAllExerciseOnDayIntent give me my exercises for {Day}
+GetAllExerciseOnDayIntent give all my exercises for {Day}
+GetAllExerciseOnDayIntent give all exercises for {Day}
+GetAllExerciseOnDayIntent give my exercises on {Day}
+GetAllExerciseOnDayIntent give me my exercises on {Day}
+GetAllExerciseOnDayIntent give all my exercises on {Day}
+GetAllExerciseOnDayIntent give all exercises on {Day}
+GetAllExerciseOnDayIntent give my {Day} exercises
+GetAllExerciseOnDayIntent give {Day} exercises
+GetAllExerciseOnDayIntent give all exercises {Day}
+GetAllExerciseOnDayIntent tell my exercises for {Day}
+GetAllExerciseOnDayIntent tell me my exercises for {Day}
+GetAllExerciseOnDayIntent tell all my exercises for {Day}
+GetAllExerciseOnDayIntent tell all exercises for {Day}
+GetAllExerciseOnDayIntent tell my exercises on {Day}
+GetAllExerciseOnDayIntent tell me my exercises on {Day}
+GetAllExerciseOnDayIntent tell all my exercises on {Day}
+GetAllExerciseOnDayIntent tell all exercises on {Day}
+GetAllExerciseOnDayIntent tell my {Day} exercises
+GetAllExerciseOnDayIntent tell {Day} exercises
+GetAllExerciseOnDayIntent tell all exercises {Day}
+GetAllExerciseOnDayIntent find my exercises for {Day}
+GetAllExerciseOnDayIntent find me my exercises for {Day}
+GetAllExerciseOnDayIntent find all my exercises for {Day}
+GetAllExerciseOnDayIntent find all exercises for {Day}
+GetAllExerciseOnDayIntent find my exercises on {Day}
+GetAllExerciseOnDayIntent find me my exercises on {Day}
+GetAllExerciseOnDayIntent find all my exercises on {Day}
+GetAllExerciseOnDayIntent find all exercises on {Day}
+GetAllExerciseOnDayIntent find my {Day} exercises
+GetAllExerciseOnDayIntent find {Day} exercises
+GetAllExerciseOnDayIntent find all exercises {Day}
+
+MyHelpIntent what can you do
+MyHelpIntent what do you do
+MyHelpIntent how can I use you
+MyHelpIntent how can you help me
+MyHelpIntent get help
+
+MyCancelIntent bye
+MyCancelIntent good bye
+MyCancelIntent that's enough for today
+MyCancelIntent enough for today
+MyCancelIntent enough for the day
+MyCancelIntent that's enough for the day
+MyCancelIntent leave me alone
+MyCancelIntent leave me please
+MyCancelIntent please leave me
