@@ -11,7 +11,7 @@
 'use strict';
 
 function AlexaSkill(appId) {
-    this._appId = 'amzn1.echo-sdk-ams.app.9b697aa4-e375-4f15-b2af-5ba120e950ab';
+    this._appId = appId;
 }
 
 AlexaSkill.speechOutputType = {
