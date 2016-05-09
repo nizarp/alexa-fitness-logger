@@ -13,9 +13,12 @@ Following are the list of supported actions by FitnesLogger:
 
 To use Fitness Logger skill, try saying...
 
-Alexa, ask Fitness Logger to add ten pull downs with twenty pounds
-Alexa, ask Fitness Logger what's my best for push ups
-Alexa, ask Fitness Logger to get my bench presses on yesterday
+>Alexa, ask Fitness Logger to add ten pull downs with twenty pounds
+
+>Alexa, ask Fitness Logger what's my best for push ups
+
+>Alexa, ask Fitness Logger to get my bench presses on yesterday
+
 FitnessLogger currently supports a pre-defined list of exercises. You can say "Alexa, ask Fitness Logger for all supported exercises" to get a list of all ​exercises.
 
 ##Setup
