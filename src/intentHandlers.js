@@ -28,7 +28,7 @@ var registerIntentHandlers = function (intentHandlers, skillContext) {
             if(intent.slots.Weight.value !== undefined && isNaN(intent.slots.Weight.value)) {
                 var speechOutput = "That's not a valid weight. Please try again."+
                     " You can say, ten pull downs with twenty pounds.";
-                var reprompt = "Please say your workout.";
+                var reprompt = "Please repeat your workout.";
                 response.ask(speechOutput, reprompt);
             }
             
@@ -67,7 +67,7 @@ var registerIntentHandlers = function (intentHandlers, skillContext) {
             storage.deleteLastWorkout(session, response);
         } else {
             var speechOutput = 'Sorry, I didn\'t hear you. ' + textHelper.examplesText;
-            var reprompt = "Please say your command."
+            var reprompt = "Still waiting for your response."
             response.ask(speechOutput, reprompt);
         }
     };
@@ -79,7 +79,7 @@ var registerIntentHandlers = function (intentHandlers, skillContext) {
         } else {
             var speechOutput = "You have to specify the exercise. Please try again."+
                 " You can say, Get my best for Pull downs.";
-            var reprompt = "Please say your command."
+            var reprompt = "Still waiting for your response."
             response.ask(speechOutput, reprompt);
         }
     };
@@ -95,7 +95,7 @@ var registerIntentHandlers = function (intentHandlers, skillContext) {
                 if(day == "") {
                     var speechOutput = "Sorry, I could not understand the date. Please try again."+
                         " You can say, Get my Push Ups on last Friday.";
-                    var reprompt = "Please say your command."
+                    var reprompt = "Still waiting for your response."
                     response.ask(speechOutput, reprompt);
                 }
             
@@ -103,7 +103,7 @@ var registerIntentHandlers = function (intentHandlers, skillContext) {
         } else {
             var speechOutput = "You have to specify exercise and date. Please try again."+
                     " You can say, Get my Push Ups on last Friday.";
-            var reprompt = "Please say your command."
+            var reprompt = "Still waiting for your response."
             response.ask(speechOutput, reprompt);
         }
     };
@@ -118,15 +118,15 @@ var registerIntentHandlers = function (intentHandlers, skillContext) {
             if(day == "") {
                 var speechOutput = "Sorry, I could not understand the date. Please try again."+
                     " You can say, Get my exercises on last Friday.";
-                var reprompt = "Please say your command."
+                var reprompt = "Still waiting for your response."
                 response.ask(speechOutput, reprompt);
             }
             
             storage.findAllExercisesOnDate(session, response, day);
         } else {
-            var speechOutput = "You have to specify the date. Please try again. "+
+            var speechOutput = "You have to specify a date. Please try again. "+
                 "You can say, Get my exercises on last Friday.";
-            var reprompt = "Please say your command."
+            var reprompt = "Still waiting for your response."
             response.ask(speechOutput, reprompt);
         }
     };
