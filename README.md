@@ -1,4 +1,4 @@
-#FitnessLogger - Alexa Skill
+# FitnessLogger - Alexa Skill
 
 FitnessLogger is an Alexa skill to keep track of your daily exercises. Using FitnessLogger, you can instruct Alexa to store your workouts without reaching out to your personal devices. You can tell FitnessLogger to save your current workout, clear your last saved workout, or you can ask for your best performance. You can always review your previous workouts by just specifying the date and exercise.
 
@@ -21,10 +21,10 @@ To use Fitness Logger skill, try saying...
 
 FitnessLogger currently supports a pre-defined list of exercises. You can say "Alexa, ask Fitness Logger for all supported exercises" to get a list of all ​exercises.
 
-##Setup
+## Setup
 To run this example skill you need to do three things. The first is to deploy the code in lambda, second is to configure the Alexa skill to use Lambda. Finally, create a mysql instance in Amazon RDS and create the DB schema.
 
-###AWS Lambda Setup
+### AWS Lambda Setup
 
  - Go to the AWS Console and click on the Lambda link. Note: ensure you are in us-east or you won't be able to use Alexa with Lambda.
  - Click on the Create a Lambda Function or Get Started Now button.
@@ -41,7 +41,7 @@ To run this example skill you need to do three things. The first is to deploy th
  - Set the Event Source type as Alexa Skills kit and Enable it now. Click Submit.
  - Copy the ARN from the top right to be used later in the Alexa Skill Setup
 
-###Alexa Skill Setup
+### Alexa Skill Setup
 
  - Go to the Alexa Console and click Add a New Skill.
  - Set "FitnessLogger" as the skill name and "fitness logger" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, open fitness logger"
@@ -53,7 +53,7 @@ To run this example skill you need to do three things. The first is to deploy th
  - In order to test it, try to say some of the Sample Utterances from the Examples section below.
  - Your skill is now saved and once you are finished testing you can continue to publish your skill.
 
-###Database setup
+### Database setup
 
 Create a new MySQL instance as per the instructions provided here.
 
